@@ -1,5 +1,5 @@
-# CCIDF_SLA-1_Article-Writing
-Dark Web Investigations: Tools, Techniques, and Challenges
+#Dark Web Investigations: Tools, Techniques, and Challenges
+
 
 Cyber crime has increased rapidly with the growth of the internet and digital technologies. While most users access the surface web through common search engines, a hidden part of the internet known as the dark web has become a major platform for illegal activities. The dark web is a section of the internet that requires special software such as Tor (The Onion Router) to access. It provides anonymity to users, which is often misused by criminals to conduct illegal operations. This article discusses the role of dark web investigations in cyber crime investigation and digital forensics, focusing on tools, techniques, and challenges.
 
